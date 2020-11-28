@@ -1,3 +1,7 @@
+# About the App
+
+A simple React app for better understanding about how React, ReactDOM and Components work. This app demonstrates simple increment, reset and delete buttons. Increment button increases the value by 1, reset button resets the whole array of buttons to the value of 0 and delete button just deletes the particular counter.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

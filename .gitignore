@@ -7,6 +7,9 @@
 
 # testing
 /coverage
+./src/App.test.js
+./src/reportWebVitals.js
+./src/setupTests.js
 
 # production
 /build
@@ -17,6 +20,8 @@
 .env.development.local
 .env.test.local
 .env.production.local
+.eslintcache
+debug.log
 
 npm-debug.log*
 yarn-debug.log*
